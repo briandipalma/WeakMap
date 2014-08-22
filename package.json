@@ -1,6 +1,6 @@
 {
   "name": "polymer-weakmap",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Shim of the ES6 WeakMap",
   "main": "Gruntfile.js",
   "directories": {
@@ -13,7 +13,7 @@
     "grunt": "~0.4.1",
     "karma-mocha": "*",
     "karma-ie-launcher": "*",
-		"karma-safari-launcher": "*",
+    "karma-safari-launcher": "*",
     "karma-script-launcher": "*",
     "karma-crbot-reporter": "*",
     "grunt-karma": "*"
