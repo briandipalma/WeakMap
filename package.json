@@ -2,7 +2,7 @@
   "name": "polymer-weakmap",
   "version": "2.0.0",
   "description": "Shim of the ES6 WeakMap",
-  "main": "Gruntfile.js",
+  "main": "weakmap.js",
   "directories": {
     "doc": "docs",
     "test": "tests"
